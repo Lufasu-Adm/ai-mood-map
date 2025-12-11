@@ -17,8 +17,6 @@ Aplikasi ini dirancang dengan arsitektur **Hybrid**: Data disimpan aman secara l
 |:-----------------:|:-----------:|:-------------------:|
 | <img src="https://github.com/Lufasu-Adm/ai-mood-map/blob/main/assets/dashboard.jpg" width="250" /> | <img src="https://github.com/Lufasu-Adm/ai-mood-map/blob/main/assets/ai%20analyst.jpg" width="250" /> | <img src="https://github.com/Lufasu-Adm/ai-mood-map/blob/main/assets/crisis.jpg" width="250" /> |
 
-> *Ganti `URL_GAMBAR` di atas dengan link gambar/screenshot aplikasi kamu.*
-
 ---
 
 ## ✨ Fitur Utama

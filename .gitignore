@@ -1,0 +1,19 @@
+# --- PYTHON / BACKEND ---
+backend/venv/
+backend/__pycache__/
+backend/.env
+*.pyc
+
+# --- FLUTTER / MOBILE ---
+mobile/build/
+mobile/.dart_tool/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/.idea/
+mobile/android/.gradle
+mobile/ios/.symlinks
+mobile/ios/Pods/
+
+# --- SYSTEM ---
+.DS_Store
+Thumbs.db

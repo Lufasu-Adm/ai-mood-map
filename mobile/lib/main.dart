@@ -36,7 +36,7 @@ class _JournalPageState extends State<JournalPage> {
   
   // GANTI IP INI SESUAI SETUP (Emulator: 10.0.2.2, HP Fisik: IP Laptop)
   // final String _backendUrl = "http://10.0.2.2:8000/analyze"; 
-  final String _backendUrl = "http://192.168.1.5:8000/analyze";
+  final String _backendUrl = "http://192.168.18.17:8000/analyze";
   
   double _moodValue = 50;
   bool _isAnalyzing = false; 

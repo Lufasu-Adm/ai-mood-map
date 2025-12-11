@@ -15,7 +15,7 @@ Aplikasi ini dirancang dengan arsitektur **Hybrid**: Data disimpan aman secara l
 
 | Dashboard & Chart | AI Analysis | Safety/Crisis Alert |
 |:-----------------:|:-----------:|:-------------------:|
-| <img src="URL_GAMBAR_CHART_KAMU" width="250" /> | <img src="URL_GAMBAR_AI_RESPONSE" width="250" /> | <img src="URL_GAMBAR_CRISIS_ALERT" width="250" /> |
+| <img src="https://github.com/Lufasu-Adm/ai-mood-map/blob/main/assets/dashboard.jpg" width="250" /> | <img src="https://github.com/Lufasu-Adm/ai-mood-map/blob/main/assets/ai%20analyst.jpg" width="250" /> | <img src="https://github.com/Lufasu-Adm/ai-mood-map/blob/main/assets/crisis.jpg" width="250" /> |
 
 > *Ganti `URL_GAMBAR` di atas dengan link gambar/screenshot aplikasi kamu.*
 
